@@ -6,7 +6,7 @@ it's come frome http://satyan.github.io/sugar/index.html
 
 some code example:
 
-TestDataBaseHelper helper = new TestDataBaseHelper(this);
+    TestDataBaseHelper helper = new TestDataBaseHelper(this);
     TestTable t1 = new TestTable();
     t1.age = 10;
     t1.name = "hhh";
